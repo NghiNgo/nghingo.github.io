@@ -1,7 +1,5 @@
 # Ứng dụng Web ngữ nghĩa tìm kiếm văn bản phục vụ quản lý đầu tư chuyển đổi số
 
-**Đồ án tốt nghiệp** — Nguyễn Văn Hiển
-**Đơn vị**: Trường Đại học Nha Trang
 **Công nghệ cốt lõi**: RDF · RDFS · OWL · SPARQL · SKOS · SWRL
 
 ---
